@@ -24,3 +24,4 @@ for word in file1: #loop of all the lines in the file
         print("I Found the word",string1, "In line",num) #prints
         
 file1.close() #close the file
+input()
